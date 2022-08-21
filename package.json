@@ -11,12 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vitejs/plugin-vue": "^3.0.3",
-    "vite": "^3.0.9",
+    "pinia": "^2.0.20",
     "vue": "^3.2.37",
     "vue-router": "4"
   },
   "devDependencies": {
-    "sass": "^1.54.5"
+    "vite": "^3.0.9",
+    "sass": "^1.54.5",
+    "@vitejs/plugin-vue": "^3.0.3"
   }
 }
