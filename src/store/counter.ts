@@ -1,14 +1,14 @@
-import { defineStore } from 'pinia'
+import { defineStore } from "pinia";
 
-export default defineStore('counter', {
+export default defineStore("counter", {
   state: () => {
     return {
       count: 0,
-    }
+    };
   },
   actions: {
     increment() {
-      this.count++
+      this.count++;
     },
   },
-})
+});

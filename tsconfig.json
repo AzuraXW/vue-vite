@@ -13,6 +13,11 @@
       "dom"
     ],
     "types": [],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
   },
   "include": [
     "src/**/*.ts",

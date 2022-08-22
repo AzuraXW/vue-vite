@@ -10,8 +10,8 @@
 </template>
 
 <script setup lang="ts">
-const s: string = "test"
-console.log(s)
+const s = "test";
+console.log(s);
 </script>
 
 <style scoped>

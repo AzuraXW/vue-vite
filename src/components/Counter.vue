@@ -5,10 +5,8 @@
 </template>
 
 <script setup lang="ts">
-import useCounterStore from '@/store/counter'
-import { storeToRefs } from 'pinia'
-const store = useCounterStore()
+import useCounterStore from "@/store/counter";
+const store = useCounterStore();
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>
